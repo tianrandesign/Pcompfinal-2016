@@ -1,0 +1,12 @@
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color:#000;
+}
+
+
+.title{ line-height:26px;;width:280px;
+  position:absolute; left:565px;
+  top:350px;color: #fff;font-size:20px; }
+.bigfont{font-size:25px;line-height:24px;font-weight:bold;}
